@@ -1,0 +1,22 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+    }
+    .user-image-size {
+    height: 62px;
+    }
+
+    body {
+        background-color: #e3f2fd; /* Light Blue Background */
+        color: #1565c0; /* Dark Blue Text Color */
+    }
+
+    nav {
+        background-color: #1565c0; /* Dark Blue Navbar */
+    }
+
+    .click-me-button {
+        background-color: #af4c8b; /* Green Button */
+        border-radius: 10px;
+    }
+    
